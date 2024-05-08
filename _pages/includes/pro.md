@@ -5,7 +5,7 @@
 [Wisdom Core Garden(智核苑)](https://www.aileader.cn/)
 - [**Role**] Founder & Principal
 - [**Highlight**] The first nationwide AI training institution focused on K-12 education.
-- [**Achievement**] Successfully launched the first training institution in Cuihu Shanju, Tianhe District, Guangzhou City.
+- [**Achievement**] Successfully launched the first training institution in Cuihu Shanzhuang, Tianhe District, Guangzhou City.
 - [**Profit**] Enrollment ongoing for students.
 </div>
 </div>
