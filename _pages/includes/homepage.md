@@ -1,5 +1,4 @@
 # 📎 Homepages
-- Personal Pages: https://aichanson.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/aichanson
+- Personal Pages: https://ailingxiao.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com.sg/citations?user=zKbNINcAAAAJ&hl=zh-CN
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- ORCID: https://orcid.org/0009-0000-1890-2270
