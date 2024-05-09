@@ -1,4 +1,4 @@
-# 🛠️ Projects 
+<!-- # 🛠️ Projects 
 ## 🎙 AIGC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/WCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -28,4 +28,4 @@
 - [**Achievement**] Accumulated 500,000 users with 3,000 daily active users. Obtained one software copyright.
 - [**Profit**] Advertising and paid revenue exceeds 300,000 RMB.
 </div>
-</div>
+</div> -->
