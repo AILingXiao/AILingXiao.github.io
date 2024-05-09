@@ -14,7 +14,5 @@ if __name__ == '__main__':
         f.write(_homepage)
         f.write('\n\n##')
         f.write(_news)
-        f.write('\n\n#')
+        f.write('\n\n##')
         f.write(_pro)
-        # f.write('\n\n#')
-        # f.write(_pro_short)
