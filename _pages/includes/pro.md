@@ -2,6 +2,16 @@
 ## 🤖 AIGC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/WCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Private Large Language Model(私有大模型)]()
+- [**Role**] Solution Planner
+- [**Highlight**] Private large models can help companies reduce costs, increase efficiency, and enhance productivity, especially in terms of the professionalism and accuracy of large model question answering, as well as data security.
+- [**Achievement**] Successfully delivered high-quality models in various fields, including an industrial patents model(PatentGPT), a government document writing model, an AI painting model for cross-border e-commerce, and a horse racing model for the betting industry(RacingGPT).
+- [**Profit**] Contracts and orders for private large models from several companies.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/WCG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Wisdom Core Garden(智核苑)](https://www.aileader.cn/)
 - [**Role**] Founder & Principal
 - [**Highlight**] The first nationwide AI training institution focused on K-12 education.
