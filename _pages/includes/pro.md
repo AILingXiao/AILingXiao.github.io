@@ -1,6 +1,6 @@
 # 🛠️ Projects
 ## 🤖 AIGC
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/WCG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/RAG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Private Large Language Model(私有大模型)]()
 - [**Role**] Solution Planner
