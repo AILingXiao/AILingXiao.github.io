@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.07*: 🎉 Wisdom Core Garden won the third prize in the 7th National Youth AI Innovation Challenge with the project "AI Virtual Companion for the Elderly."!
+- *2024.07*: 🎉 Wisdom Core Garden won the third prize in the 7th National Youth AI Innovation Challenge (AIIC) with the project "AI Virtual Companion for the Elderly."!
 - *2024.07*: 🎉 Wisdom Core Garden has been officially authorized as a designated registration and examination service point for the National Youth Programming Ability for Adolescents Test (PAAT)!
 - *2024.04*: 🎉 Wisdom Core Garden (Cuihu Branch) Established! The First National AI Professional Training Institute for Kindergarten through 12th grade(K12)!
 - *2024.04*: I have been appointed as an External Instructor at the School of Artificial Intelligence, Fujian Normal University.
