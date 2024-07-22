@@ -2,7 +2,7 @@
 ## 🤖 AIGC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/WCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Wisdom Core Garden(智核苑)](https://www.aileader.cn/)
+[Wisdom Core Garden(智核苑)](https://www.wcgai.com/)
 - [**Role**] Founder & Principal
 - [**Highlight**] The first nationwide AI training institution focused on K-12 education.
 - [**Achievement**] Successfully launched the first training institution in Cuihu Shanzhuang, Tianhe District, Guangzhou City.
