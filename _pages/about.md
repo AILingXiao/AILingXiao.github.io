@@ -13,6 +13,7 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
+<span class='anchor' id='-publications'></span>
 {% include_relative includes/pub.md %}
 
 <span class='anchor' id='-projects'></span>
