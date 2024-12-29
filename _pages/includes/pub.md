@@ -69,6 +69,12 @@ T Yang, J Shen, Y Su, **X Ling**, Y Yang, MR Lyu
   - **Grant Date:** 2023-03-21
   - **Description:** 本发明中，通过多层级的分割网络对待识别图形进行分割，并根据待识别图像中的不同的分割目标使用不同层级的分割网络，提高了待识别图像中的不同分割目标的分割精度，提高了待识别图像的评级分类精度。
 
+- **Title:** [一种调度方法及装置](https://www.qcc.com/zhuanliDetail/c7de995b270d81d25dd253bea52fde86.html)
+  - **No.:** CN201811161060.6
+  - **Authors:** **凌晓**
+  - **Grant Date:** 2019-03-01
+  - **Description:** 一种调度方法及装置，用以解决现有技术中作业等待时延较大，效率较低的问题。
+
 - **Title:** [云产品的推荐方法和推荐装置](https://www.qcc.com/zhuanliDetail/6ebff985672799460e968f51e2a3f69f.html)
   - **No.:** CN202011526847.5
   - **Authors:** **凌晓**，曾彦翔
