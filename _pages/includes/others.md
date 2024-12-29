@@ -1,6 +1,6 @@
 # 💼 Experiences
-- *2024.04 - now*, Founder, [Wisdom Core Garden](https://www.aileader.cn/), Guangzhou.
-- *2024.04 - now*, External Instructor, School of Artificial Intelligence(AI), Fujian Normal University, Fuzhou.
+- *2024.06 - now*, Founder, [Wisdom Core Garden](https://www.aileader.cn/), Guangzhou.
+- *2024.04 - now*, External Instructor, School of Artificial Intelligence (AI), Fujian Normal University, Fuzhou.
 - *2022.04 - now*, CEO, [HeTao Technology Co., Ltd.](https://www.corecog.cn/), Shenzhen.
 - *2017.07 - 2022.02*, Technical Expert, Level 19, [Cloud Innovation Lab, HuaWei](https://www.huaweicloud.com/lab/home.html), Beijing.
 
