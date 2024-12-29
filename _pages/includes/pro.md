@@ -1,6 +1,6 @@
 # 🛠️ Projects
 ## 🤖 AIGC
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/aileader.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AILeader 2024</div><img src='images/aileader.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AILeader (智核苑一站式AI教学平台)](https://www.aileader.cn/)
 - [**Role**] Founder
@@ -20,7 +20,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIADS 2022</div><img src='images/MIADS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoreMI 2022</div><img src='images/MIADS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CoreMI (医疗影像辅助诊断系统)]()
 - [**Role**] CTO
@@ -35,8 +35,8 @@
 <div class='paper-box-text' markdown="1">
 [AIOps (华为云智能运维项目)](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/SRE/1657532773741800627.pdf) 
 - [**Role**] Project Manager
-- [**Highlight**] Achieved autonomous driving of cloud networks: capable of automatic fault detection, root cause identification, and self-healing of faults.
-- [**Achievement**] Achieved the 1-5-10 objective to some extent: for online issues with Huawei Cloud, issues can be detected in 1 minute, located in 5 minutes, and repaired within 10 minutes.
+- [**Highlight**] This project has established a joint laboratory with the Chinese University of Hong Kong (CUHK), with an investment of **10 million RMB**, over 10 PhD researchers, and a duration of 3 years.
+- [**Achievement**] Achieved autonomous driving of cloud networks: capable of automatic fault detection, root cause identification, and self-healing of faults. Achieved the 1-5-10 objective to some extent: for online issues with Huawei Cloud, issues can be detected in 1 minute, located in 5 minutes, and repaired within 10 minutes.
 - [**Profit**] Greatly enhanced the high availability of Huawei Cloud.
 </div>
 </div>
