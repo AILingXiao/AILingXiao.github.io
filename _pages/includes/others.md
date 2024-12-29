@@ -6,7 +6,7 @@
 
 # 📖 Educations
 - *2012.06 - 2017.06*, PhD, Computer Science and Technology (CS), Tsinghua University (THU), Beijing.
-- *2014.09 - 2016.06*, Research Assistant (RA), Department of Electrical and Electronic Engineering (EEE), The Hong Kong Polytechnic University(PolyU), HongKong.
+- *2014.09 - 2016.06*, Research Assistant (RA), Department of Electrical and Electronic Engineering (EEE), The Hong Kong Polytechnic University (PolyU), HongKong.
 - *2008.09 - 2012.06*, Bachelor, Software Engineering (SE), Beijing University of Posts and Telecommunications (BUPT), Beijing.
 - *2005.09 - 2008.06*, Zhanjiang No.1 Middle School, Zhanjiang.
 

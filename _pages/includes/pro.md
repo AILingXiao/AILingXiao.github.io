@@ -28,7 +28,7 @@
 - [**Role**] Founder
 - [**Highlight**] The **first one-stop AI education platform** for young learners in China. By leveraging innovative AI technologies, it integrates three main components: AI Programming, AI Tutoring, and AI Science & Innovation. The platform covers a wide range of functional modules, including block-based programming, instruction-based programming, learning assistants, mock exams, AI art creation, and digital life, all aimed at supporting students in project-based and personalized innovative learning methods.
 - [**Achievement**] Successfully launched the first training institution in Cuihu Shanzhuang, Tianhe District, Guangzhou City.
-- [**Profit**] Enrollment ongoing for students.
+- [**Profit**] Enrolled over 100 students and generated revenue exceeding 1 million RMB.
 </div>
 </div>
 
