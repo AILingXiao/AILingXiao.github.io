@@ -11,6 +11,7 @@
 - *2005.09 - 2008.06*, Zhanjiang No.1 Middle School, Zhanjiang.
 
 # 💬 Invited Talks
+- *2024.08*, The Future of Intelligent Learning: AI Empowering Personalized Education and Innovation in Primary and Secondary Schools, First National AIGC Education Summit
 - *2023.08*, The Past and Present of AIGC, Shenzhen Longhua District Public Course on Artificial Intelligence
 - *2023.06*, Roundtable Discussion: "Opportunities and Challenges in the Development of Generative AI", Qianhai First International Forum on Disruptive Technology Innovation
 - *2023.04*, The Application of Cutting-Edge Artificial Intelligence Technologies in Industries, The 6th Digital China Summit
