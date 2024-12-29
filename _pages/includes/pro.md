@@ -34,7 +34,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HeTaoAI 2023</div><img src='images/HeTaoAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Hetao AI Applet (核韬AI小程序)]() 
+Hetao AI Applet (核韬AI小程序) 
 - [**Role**] CTO
 - [**Highlight**] One-stop AI generation tool, covering AI Q&A, AI dialogue, AI painting, AI portrait and AI picture book.
 - [**Achievement**] Accumulated **500,000 users** with 3,000 daily active users. Obtained one software copyright.
@@ -44,7 +44,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoreMI 2022</div><img src='images/MIADS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CoreMI (医疗影像辅助诊断系统)]()
+CoreMI (医疗影像辅助诊断系统)
 - [**Role**] CTO
 - [**Highlight**] Capable of automatically identifying potentially diseased images in a large volume of medical images, marking the lesion areas, and automatically generating diagnostic reports. Assists doctors in quickly reviewing images and reduces the rate of misdiagnosis.
 - [**Achievement**] Passed the inspection by the National Medical Device Testing Institute and obtained the inspection report. Granted one algorithm invention patent and one software copyright.
