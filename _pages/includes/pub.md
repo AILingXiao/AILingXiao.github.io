@@ -63,15 +63,15 @@ T Yang, J Shen, Y Su, **X Ling**, Y Yang, MR Lyu
 - `HPCC 2015` [Cluster Scheduler on Heterogeneous Cloud](https://www.researchgate.net/profile/Xiao-Ling-17/publication/304988465_Cluster_Scheduler_on_Heterogeneous_Cloud/links/577e11d608aed807ae77a9e3/Cluster-Scheduler-on-Heterogeneous-Cloud.pdf), **X Ling**, J Yang, D Wang, Y Wang
 
 ## 🔒 Patents
-- **Title:** 一种眼底照片的图像识别方法、装置、设备及存储介质
+- **Title:** [一种眼底照片的图像识别方法、装置、设备及存储介质](https://www.qcc.com/zhuanliDetail/5c12a1e9d62825f269e5d1d3565edd39.html)
   - **No.:** CN202211595444.5
-  - **Authors:** 凌晓，曾昭翔，张凯
+  - **Authors:** **凌晓**，曾昭翔，张凯
   - **Grant Date:** 2023-03-21
   - **Description:** 本发明涉及人工智能技术领域，尤其涉及一种眼底照片的图像识别方法、装置、设备及存储介质。本发明中，通过多层级的分割网络对待识别图形进行分割，并根据待识别图像中的不同的分割目标使用不同层级的分割网络，提高了待识别图像中的不同分割目标的分割精度，最后基于分割网络参数训练分类模型，对待识别图像进行评级分类，并将评级分类结果与基于分割结果得到的评级分类结果进行处理，得到最终的目标评级分类结果，提高了待识别图像的评级分类精度。
 
 - **Title:** 云产品的推荐方法和推荐装置
   - **No.:** CN202011526847.5
-  - **Authors:** 凌晓，曾彦翔
+  - **Authors:** **凌晓**，曾彦翔
   - **Grant Date:** 2022-07-08
   - **Description:** 本申请提供了一种云产品的推荐方法和推荐装置，涉及人工智能、智能推荐领域。其中，该推荐方法包括：获取用户负载信息，用户负载信息用于指示用户对所购买云产品的历史使用情况；获取推荐库中多个云产品的购买价格，多个云产品分别对应多个不同规格；根据用户负载信息和推荐库中多个云产品的购买价格确定第一推荐结果，第一推荐结果为多个云产品中的至少一个云产品。本申请所提供的推荐方法能够提高云产品推荐的可靠性。
 
