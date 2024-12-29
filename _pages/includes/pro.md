@@ -22,7 +22,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIADS 2022</div><img src='images/MIADS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CoreMI (医疗影像辅助诊断系统)](https://www.corecog.cn:18087)
+[CoreMI (医疗影像辅助诊断系统)]()
 - [**Role**] CTO
 - [**Highlight**] Capable of automatically identifying potentially diseased images in a large volume of medical images, marking the lesion areas, and automatically generating diagnostic reports. Assists doctors in quickly reviewing images and reduces the rate of misdiagnosis.
 - [**Achievement**] Passed the inspection by the National Medical Device Testing Institute and obtained the inspection report. Granted one algorithm invention patent and one software copyright.

@@ -3,7 +3,7 @@
 ## ☁️ Cloud Computing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2016</div><img src='images/Tetris.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Tetris: Optimizing cloud resource usage unbalance with elastic VM](https://d1wqtxts1xzle7.cloudfront.net/92673800/IWQoS16-Final-libre.pdf?1666145412=&response-content-disposition=inline%3B+filename%3DTetris_Optimizing_cloud_resource_usage_u.pdf&Expires=1715105227&Signature=OIBl6VZ5q-DARcuo85iPANBcKm7HAlBHQQbAxiy4smKE~BsZwrQn-QCQ-ZSdgkeI5LT8lwbLWnbSnQlp4y5-DsBIlMhzbWZ0sywuOiefnrQpNgK1au4NGaKwxT2YV7zcIAyJqF-HPdgAhkRzK365GW05hM3zYnrNREMlso6YTf5O5WGU~4UTBtgYPI7UlwEebyjE-il23yojLQhYx~przbE08Sb4vPAz2oWUvKH2dIcmLQ1dxPh1Ln-NfpAuTdr9EC53DekdsgZjVK3z683lhbIHnrrx4zp3YsqGB~kFQgXQQ1roQaToDVKkWd2PckdPzlSTH6QPvnV~9A~63GW5pA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)\\
+[Tetris: Optimizing cloud resource usage unbalance with elastic VM](https://ieeexplore.ieee.org/document/7590395)\\
 **X Ling**, Y Yuan, D Wang, J Yang
   - Tetris is an elastic VM strategy based on cloud system that can better optimize resource utilization to support big data applications.
   - We evaluate Tetris on a real private cloud platform using Facebook trace and Wikipedia dataset. With Tetris, the cloud system can accommodate 31.3% more jobs.
@@ -23,7 +23,7 @@
 
 - `ISCC 2016` [Load-aware hybrid scheduling in large compute clusters](https://ieeexplore.ieee.org/document/7543833), D Fu, J Yang, **X Ling**, H Zhang
 
-- `HPCC 2015` [Cluster Scheduler on Heterogeneous Cloud](https://www.researchgate.net/profile/Xiao-Ling-17/publication/304988465_Cluster_Scheduler_on_Heterogeneous_Cloud/links/577e11d608aed807ae77a9e3/Cluster-Scheduler-on-Heterogeneous-Cloud.pdf), **X Ling**, J Yang, D Wang, Y Wang
+- `HPCC 2015` [Cluster Scheduler on Heterogeneous Cloud](https://ieeexplore.ieee.org/document/7336251), **X Ling**, J Yang, D Wang, Y Wang
 
 ## ⚙️ AIOps
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2022</div><img src='images/ADSketch.png' alt="sym" width="100%"></div></div>
