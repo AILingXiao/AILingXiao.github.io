@@ -5,9 +5,9 @@
 - *2017.07 - 2022.02*, Technical Expert, Level 19, [Cloud Innovation Lab, HuaWei](https://www.huaweicloud.com/lab/home.html), Beijing.
 
 # 📖 Educations
-- *2012.06 - 2017.06*, Doctor, Computer Science and Technology(CS), Tsinghua University(THU), Beijing.
-- *2014.09 - 2016.06*, Research Assistant(RA), Department of Electrical and Electronic Engineering(EEE), The Hong Kong Polytechnic University(PolyU), HongKong.
-- *2008.09 - 2012.06*, Bachelor, Software Engineering(SE), Tsinghua University(THU), Beijing.
+- *2012.06 - 2017.06*, Doctor, Computer Science and Technology (CS), Tsinghua University (THU), Beijing.
+- *2014.09 - 2016.06*, Research Assistant (RA), Department of Electrical and Electronic Engineering (EEE), The Hong Kong Polytechnic University(PolyU), HongKong.
+- *2008.09 - 2012.06*, Bachelor, Software Engineering (SE), Beijing University of Posts and Telecommunications (BUPT), Beijing.
 - *2005.09 - 2008.06*, Zhanjiang No.1 Middle School, Zhanjiang.
 
 # 💬 Invited Talks
