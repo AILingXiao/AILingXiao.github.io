@@ -1,32 +1,12 @@
 # 🛠️ Projects
 ## 🤖 AIGC
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLM now</div><img src='images/RAG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Private Large Language Model(私有大模型)]()
-- [**Role**] Solution Planner
-- [**Highlight**] Private large models can help companies reduce costs, increase efficiency, and enhance productivity, especially in terms of the professionalism and accuracy of large model question answering, as well as data security.
-- [**Achievement**] Successfully delivered high-quality models in various fields, including an industrial patents model(PatentGPT), a government document writing model, an AI painting model for cross-border e-commerce, and a horse racing model for the betting industry(RacingGPT).
-- [**Profit**] Contracts and orders for private large models from several companies.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCG now</div><img src='images/WCG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Wisdom Core Garden(智核苑)](https://www.wcgai.com/)
-- [**Role**] Founder & Principal
-- [**Highlight**] The first nationwide AI training institution focused on K-12 education.
+[Wisdom Core Garden(智核苑一站式AI教学平台)](https://www.aileader.cn/)
+- [**Role**] Founder
+- [**Highlight**] an one-stop AI education platform specifically designed for young learners. By leveraging innovative AI technologies, it integrates three main components: AI Programming, AI Tutoring, and AI Science & Innovation. The platform covers a wide range of functional modules, including block-based programming, instruction-based programming, learning assistants, mock exams, AI art creation, and digital life, all aimed at supporting students in project-based and personalized innovative learning methods.
 - [**Achievement**] Successfully launched the first training institution in Cuihu Shanzhuang, Tianhe District, Guangzhou City.
 - [**Profit**] Enrollment ongoing for students.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VAP 2024</div><img src='images/VAP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Virtual Avatar Platform(虚拟数字人平台)](https://www.aileader.cn/)
-- [**Role**] CTO
-- [**Highlight**] Create bespoke virtual digital humans in a one-stop shop, featuring creative writing, voice cloning, speech synthesis, digital life, and more, with support for multiple driving methods.
-- [**Achievement**] Online beta testing in progress.
-- [**Profit**] Dedicated to the Wisdom Core Garden teaching platform.
 </div>
 </div>
 

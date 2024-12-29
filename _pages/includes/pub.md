@@ -61,8 +61,6 @@ T Yang, J Shen, Y Su, **X Ling**, Y Yang, MR Lyu
 - `ISCC 2016` [Load-aware hybrid scheduling in large compute clusters](https://ieeexplore.ieee.org/document/7543833), D Fu, J Yang, **X Ling**, H Zhang
 
 - `HPCC 2015` [Cluster Scheduler on Heterogeneous Cloud](https://www.researchgate.net/profile/Xiao-Ling-17/publication/304988465_Cluster_Scheduler_on_Heterogeneous_Cloud/links/577e11d608aed807ae77a9e3/Cluster-Scheduler-on-Heterogeneous-Cloud.pdf), **X Ling**, J Yang, D Wang, Y Wang
-</div>
-</div>
 
 ## 🔒 Patents
 - **Title:** [一种眼底照片的图像识别方法、装置、设备及存储介质](https://www.qcc.com/zhuanliDetail/5c12a1e9d62825f269e5d1d3565edd39.html)
@@ -112,7 +110,7 @@ T Yang, J Shen, Y Su, **X Ling**, Y Yang, MR Lyu
   - **No.:** 2024SR2114374
   - **Authors:** 深圳核韬科技有限公司
   - **Grant Date:** 2024-12-18
-  - **Description:** 智核苑教学平台1.0是专为青少年群体打造的人工智能教育学习平台，通过创新的AI技术，集成了积木编程、指令编程、语音合成、数字生命、学科辅导和发明专利六大功能模块，助力学生从基础知识到高阶创新的全面学习与发展。
+  - **Description:** 智核苑教学平台1.0是专为青少年群体打造的人工智能教育学习平台，通过创新的AI技术，集成了AI编程、AI辅导、AI科创三大版块，覆盖积木编程、指令编程、学习助手、模拟考试、AI绘画、数字生命等功能模块，助力学生进行项目式及个性化的创新学习方法。
 
 - **Title:** 智核苑数字人创作平台DigitalAvatar
   - **No.:** 2024SR1155409
