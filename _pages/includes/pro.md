@@ -26,7 +26,7 @@
 <div class='paper-box-text' markdown="1">
 [AILeader (智核苑一站式AI教学平台)](https://www.aileader.cn/)
 - [**Role**] Founder
-- [**Highlight**] an one-stop AI education platform specifically designed for young learners. By leveraging innovative AI technologies, it integrates three main components: AI Programming, AI Tutoring, and AI Science & Innovation. The platform covers a wide range of functional modules, including block-based programming, instruction-based programming, learning assistants, mock exams, AI art creation, and digital life, all aimed at supporting students in project-based and personalized innovative learning methods.
+- [**Highlight**] The **first one-stop AI education platform** for young learners in China. By leveraging innovative AI technologies, it integrates three main components: AI Programming, AI Tutoring, and AI Science & Innovation. The platform covers a wide range of functional modules, including block-based programming, instruction-based programming, learning assistants, mock exams, AI art creation, and digital life, all aimed at supporting students in project-based and personalized innovative learning methods.
 - [**Achievement**] Successfully launched the first training institution in Cuihu Shanzhuang, Tianhe District, Guangzhou City.
 - [**Profit**] Enrollment ongoing for students.
 </div>
@@ -38,7 +38,7 @@
 - [**Role**] CTO
 - [**Highlight**] One-stop AI generation tool, covering AI Q&A, AI dialogue, AI painting, AI portrait and AI picture book.
 - [**Achievement**] Accumulated **500,000 users** with 3,000 daily active users. Obtained one software copyright.
-- [**Profit**] Advertising and paid revenue exceeds 300,000 RMB.
+- [**Profit**] Advertising and paid revenue exceeds 1,000,000 RMB.
 </div>
 </div>
 
