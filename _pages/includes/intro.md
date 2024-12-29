@@ -1,4 +1,4 @@
-I am a free-agent AI entrepreneur, committed to democratizing AI for everyone!
+I am an AI entrepreneur, dedicated to enhancing productivity through cutting-edge innovative technologies!
 
 I am currently dedicated to the research and practical application of cutting-edge generative AI technology (AIGC), with a particular focus on the training, tuning, and knowledge retrieval of large language models(LLMs) within vertical sectors such as industry, e-commerce, education and so on. If you are seeking any form of **Entrepreneurial Collaboration**, please feel free to email me at [lxcernet@gmail.com](mailto:lxcernet@gmail.com).
 
