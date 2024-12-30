@@ -48,6 +48,6 @@ CoreMI (医疗影像辅助诊断系统)
 - [**Role**] CTO
 - [**Highlight**] Capable of automatically identifying potentially diseased images in a large volume of medical images, marking the lesion areas, and automatically generating diagnostic reports. Assists doctors in quickly reviewing images and reduces the rate of misdiagnosis.
 - [**Achievement**] Passed the inspection by the National Medical Device Testing Institute and obtained the inspection report. Granted one algorithm invention patent and one software copyright.
-- [**Profit**] Did not actually go through with the sale.
+- [**Profit**] Conducted a pilot program at a top-tier hospital with free trials.
 </div>
 </div>
