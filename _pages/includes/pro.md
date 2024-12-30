@@ -36,7 +36,7 @@
 <div class='paper-box-text' markdown="1">
 Hetao AI Applet (核韬AI小程序) 
 - [**Role**] CTO
-- [**Highlight**] One-stop AI generation tool, covering AI Q&A, AI dialogue, AI painting, AI portrait and AI picture book.
+- [**Highlight**] A simple AI generation tool, covering AI Q&A, AI dialogue, AI painting, AI portrait and AI picture book.
 - [**Achievement**] Accumulated **500,000 users** with 3,000 daily active users. Obtained one software copyright.
 - [**Profit**] Advertising and paid revenue exceeds 1 million RMB.
 </div>
