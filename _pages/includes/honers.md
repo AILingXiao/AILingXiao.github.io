@@ -5,7 +5,7 @@
 - *2019.12* **Individual Gold Medal Award**, Huawei Technologies Co., Ltd. (Top 1%)
 - *2017.06* **Outstanding Doctoral Graduate**, Tsinghua University (THU) (Top 1%)
 - *2016.12* **Doctoral National Scholarship**, Tsinghua University (THU) (Top 1%)
-- *2012.06* Ranked first in the undergraduate program, qualified for direct admission to Tsinghua University for a PhD degree (Top 1%)
+- *2012.06* **Ranked First** in the undergraduate program, qualified for direct admission to Tsinghua University for a PhD degree (Top 1%)
 - *2011.10* National Encouragement Scholarship, Beijing University of Posts and Telecommunications (BUPT) (Top 1%)
 - *2010.07* Outstanding Award, U.S. National College Mathematics Modeling Competition (Top 1%)
 - *2009.07* First Prize, National Undergraduate Mathematics Modeling Competition (Top 1%)
