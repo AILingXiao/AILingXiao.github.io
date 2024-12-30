@@ -28,7 +28,7 @@
 - [**Role**] Founder
 - [**Highlight**] The **first one-stop AI education platform** for young learners in China. By leveraging innovative AI technologies, it integrates three main components: AI Programming, AI Tutoring, and AI Science & Innovation. The platform covers a wide range of functional modules, including block-based programming, instruction-based programming, learning assistants, mock exams, AI art creation, and digital life, all aimed at supporting students in project-based and personalized innovative learning methods.
 - [**Achievement**] Successfully launched the first training institution in Cuihu Shanzhuang, Tianhe District, Guangzhou City.
-- [**Profit**] Enrolled over 100 students and generated revenue exceeding 1 million RMB.
+- [**Profit**] Enrolled over 100 students and generated revenue exceeding 2 million RMB.
 </div>
 </div>
 
@@ -38,7 +38,7 @@ Hetao AI Applet (核韬AI小程序)
 - [**Role**] CTO
 - [**Highlight**] One-stop AI generation tool, covering AI Q&A, AI dialogue, AI painting, AI portrait and AI picture book.
 - [**Achievement**] Accumulated **500,000 users** with 3,000 daily active users. Obtained one software copyright.
-- [**Profit**] Advertising and paid revenue exceeds 1,000,000 RMB.
+- [**Profit**] Advertising and paid revenue exceeds 1 million RMB.
 </div>
 </div>
 
