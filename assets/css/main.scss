@@ -47,20 +47,19 @@
 .highlights-section {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
     gap: 1rem;
     margin: 1.5rem 0 2rem 0;
-    padding: 1.5rem;
+    padding: 1.5rem 2rem;
     background: linear-gradient(135deg, #f8f9fc 0%, #e8ecf4 100%);
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 54, 159, 0.08);
 }
 
 .highlight-card {
-    flex: 1;
-    min-width: 120px;
-    max-width: 160px;
-    padding: 1rem 0.75rem;
+    flex: 1 1 0;
+    min-width: 100px;
+    padding: 1.25rem 1rem;
     text-align: center;
     background: white;
     border-radius: 8px;
