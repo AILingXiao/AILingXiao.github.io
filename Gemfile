@@ -9,12 +9,13 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# Use newer Jekyll version compatible with Ruby 3.4
+gem "jekyll", "~> 4.3"
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
+# Fix JSON compatibility with Ruby 3.4
+gem "json", "~> 2.7.1"
 
-gem "jekyll"
+# gem "github-pages", group: :jekyll_plugins
 
 # wdm is not compatible with Ruby 3.4, skip it
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -28,5 +29,9 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  gem 'jekyll-paginate'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-gist'
+  # hawkins has compatibility issues, skip it
+  # gem 'hawkins'
 end
