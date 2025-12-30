@@ -40,6 +40,79 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   RESEARCH HIGHLIGHTS SECTION
+   ========================================================================== */
+
+.highlights-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1.5rem 0 2rem 0;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #f8f9fc 0%, #e8ecf4 100%);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 54, 159, 0.08);
+}
+
+.highlight-card {
+    flex: 1;
+    min-width: 120px;
+    max-width: 160px;
+    padding: 1rem 0.75rem;
+    text-align: center;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 4px 12px rgba(0, 54, 159, 0.15);
+    }
+}
+
+.highlight-number {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #00369f;
+    line-height: 1.2;
+    margin-bottom: 0.25rem;
+}
+
+.highlight-label {
+    font-size: 0.75rem;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+}
+
+@media (max-width: 600px) {
+    .highlights-section {
+        gap: 0.75rem;
+        padding: 1rem;
+    }
+    
+    .highlight-card {
+        min-width: 80px;
+        padding: 0.75rem 0.5rem;
+    }
+    
+    .highlight-number {
+        font-size: 1.4rem;
+    }
+    
+    .highlight-label {
+        font-size: 0.65rem;
+    }
+}
+
+/* ==========================================================================
+   PAPER BOX ENHANCEMENTS
+   ========================================================================== */
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,7 +121,11 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
+    transition: background-color 0.2s ease;
     
+    &:hover {
+        background-color: #fafbfc;
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -59,6 +136,13 @@
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            border-radius: 6px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            
+            &:hover {
+                transform: scale(1.02);
+                box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);
+            }
         }
     }
     
@@ -83,9 +167,11 @@
         }
 
     }
-
-
 }
+
+/* ==========================================================================
+   SECTION HEADERS ENHANCEMENT
+   ========================================================================== */
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
@@ -97,6 +183,33 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+h1 {
+    position: relative;
+    
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, #00369f 0%, #4a90d9 100%);
+        border-radius: 2px;
+    }
+}
+
+h2 {
+    color: #2c3e50;
+    font-weight: 600;
+    margin-top: 1.5em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid #e8ecf4;
+}
+
+/* ==========================================================================
+   BADGE ENHANCEMENT
+   ========================================================================== */
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -104,6 +217,98 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background: linear-gradient(135deg, #00369f 0%, #1a5bc4 100%);
     font-size: .8em;
+    font-weight: 600;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 54, 159, 0.3);
+}
+
+/* ==========================================================================
+   HONORS SECTION STYLING
+   ========================================================================== */
+
+.page__content {
+    h1 + h2 {
+        margin-top: 1em;
+    }
+    
+    ul {
+        li {
+            margin-bottom: 0.5em;
+            line-height: 1.6;
+            
+            strong {
+                color: #00369f;
+            }
+        }
+    }
+}
+
+/* ==========================================================================
+   EXPERIENCE TIMELINE STYLING
+   ========================================================================== */
+
+.page__content ul li {
+    position: relative;
+    
+    em {
+        color: #666;
+        font-style: normal;
+        font-weight: 500;
+    }
+}
+
+/* ==========================================================================
+   PATENTS & COPYRIGHTS LIST STYLING
+   ========================================================================== */
+
+.page__content {
+    ul {
+        li {
+            ul {
+                margin-top: 0.3em;
+                margin-bottom: 0.8em;
+                padding-left: 1.5em;
+                
+                li {
+                    font-size: 0.9em;
+                    color: #555;
+                    margin-bottom: 0.2em;
+                    
+                    strong {
+                        color: #333;
+                        font-weight: 600;
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* ==========================================================================
+   LINK STYLING
+   ========================================================================== */
+
+.page__content a {
+    color: #00369f;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+    
+    &:hover {
+        border-bottom-color: #00369f;
+        text-decoration: none;
+    }
+}
+
+/* ==========================================================================
+   PROJECT ROLE TAGS
+   ========================================================================== */
+
+.paper-box-text {
+    [Role], [Highlight], [Achievement], [Profit], [Scale], [Innovation], [Architecture], [Impact] {
+        font-weight: 600;
+        color: #00369f;
+    }
 }

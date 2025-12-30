@@ -16,7 +16,8 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# wdm is not compatible with Ruby 3.4, skip it
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'tzinfo-data'
 

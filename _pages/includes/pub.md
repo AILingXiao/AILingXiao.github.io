@@ -1,32 +1,33 @@
 
 # 📝 Publications 
+
 ## ☁️ Cloud Computing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2016</div><img src='images/Tetris.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2016 (CCF-B)</div><img src='images/Tetris.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Tetris: Optimizing cloud resource usage unbalance with elastic VM](https://ieeexplore.ieee.org/document/7590395)\\
 **X Ling**, Y Yuan, D Wang, J Yang
   - Tetris is an elastic VM strategy based on cloud system that can better optimize resource utilization to support big data applications.
-  - We evaluate Tetris on a real private cloud platform using Facebook trace and Wikipedia dataset. With Tetris, the cloud system can accommodate 31.3% more jobs.
+  - We evaluate Tetris on a real private cloud platform using Facebook trace and Wikipedia dataset. With Tetris, the cloud system can accommodate **31.3% more jobs**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPDC 2016</div><img src='images/MSJO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPDC 2016 (CCF-B)</div><img src='images/MSJO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Joint scheduling of MapReduce jobs with servers: Performance bounds and experiments](https://www.sciencedirect.com/science/article/pii/S0743731516000174)\\
 **X Ling**, Y Yuan, D Wang, J Liu, J Yang
   - We formulate the MapReduce server-job organizer problem (MSJO) and show that it is NP-complete.
-  - We propose a 3-approximation algorithm and a fast heuristic design to address the MSJO problem.
+  - We propose a **3-approximation algorithm** and a fast heuristic design to address the MSJO problem.
 </div>
 </div>
 
-- `HPCC 2016` [Fast community detection in large weighted networks using graphx in the cloud](https://ieeexplore.ieee.org/document/7828353), **X Ling**, J Yang, D Wang, J Chen, L Li
+- `HPCC 2016 (CCF-C)` [Fast community detection in large weighted networks using graphx in the cloud](https://ieeexplore.ieee.org/document/7828353), **X Ling**, J Yang, D Wang, J Chen, L Li
 
-- `ISCC 2016` [Load-aware hybrid scheduling in large compute clusters](https://ieeexplore.ieee.org/document/7543833), D Fu, J Yang, **X Ling**, H Zhang
+- `ISCC 2016 (CCF-C)` [Load-aware hybrid scheduling in large compute clusters](https://ieeexplore.ieee.org/document/7543833), D Fu, J Yang, **X Ling**, H Zhang
 
-- `HPCC 2015` [Cluster Scheduler on Heterogeneous Cloud](https://ieeexplore.ieee.org/document/7336251), **X Ling**, J Yang, D Wang, Y Wang
+- `HPCC 2015 (CCF-C)` [Cluster Scheduler on Heterogeneous Cloud](https://ieeexplore.ieee.org/document/7336251), **X Ling**, J Yang, D Wang, Y Wang
 
 ## ⚙️ AIOps
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2022</div><img src='images/ADSketch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2022 (CCF-A)</div><img src='images/ADSketch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive performance anomaly detection for online service systems via pattern sketching](https://arxiv.org/pdf/2201.02944) \\
@@ -40,7 +41,7 @@ Z Chen, J Liu, Y Su, H Zhang, **X Ling**, Y Yang, MR Lyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2021</div><img src='images/GRLIA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2021 (CCF-A)</div><img src='images/GRLIA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Graph-based incident aggregation for large-scale online service systems](https://arxiv.org/pdf/2108.12179) \\
@@ -51,7 +52,7 @@ Z Chen, J Liu, Y Su, H Zhang, X Wen, **X Ling**, Y Yang, MR Lyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2021</div><img src='images/AID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2021 (CCF-A)</div><img src='images/AID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AID: efficient prediction of aggregated intensity of dependency in large-scale cloud systems](https://arxiv.org/pdf/2109.04893) \\
@@ -62,76 +63,84 @@ T Yang, J Shen, Y Su, **X Ling**, Y Yang, MR Lyu
 </div>
 </div>
 
-## 🔒 Patents
-- **Title:** [一种调度方法及装置](https://www.qcc.com/zhuanliDetail/c7de995b270d81d25dd253bea52fde86.html)
+## 🔒 Patents (8 Granted)
+
+- **Title:** Scheduling Method and Apparatus (一种调度方法及装置)
   - **No.:** CN201811161060.6
-  - **Authors:** **凌晓**
+  - **Inventors:** **Xiao Ling**
   - **Grant Date:** 2019-03-01
-  - **Description:** 一种调度方法及装置，用以解决现有技术中作业等待时延较大，效率较低的问题。
+  - **Description:** A scheduling method and apparatus to solve the problem of large job waiting latency and low efficiency in existing technologies.
 
-- **Title:** [云产品的推荐方法和推荐装置](https://www.qcc.com/zhuanliDetail/6ebff985672799460e968f51e2a3f69f.html)
+- **Title:** Cloud Product Recommendation Method and Apparatus (云产品的推荐方法和推荐装置)
   - **No.:** CN202011526847.5
-  - **Authors:** **凌晓**，曾彦翔
+  - **Inventors:** **Xiao Ling**, Yanxiang Zeng
   - **Grant Date:** 2022-07-08
-  - **Description:** 本申请提供了一种云产品的推荐方法和推荐装置，所提供的推荐方法能够提高云产品推荐的可靠性。
+  - **Description:** A cloud product recommendation method and apparatus that improves the reliability of cloud product recommendations.
 
-- **Title:** [一种眼底照片的图像识别方法、装置、设备及存储介质](https://www.qcc.com/zhuanliDetail/5c12a1e9d62825f269e5d1d3565edd39.html)
+- **Title:** Fundus Image Recognition Method, Apparatus, Device and Storage Medium (一种眼底照片的图像识别方法、装置、设备及存储介质)
   - **No.:** CN202211595444.5
-  - **Authors:** **凌晓**，曾昭翔，张凯
+  - **Inventors:** **Xiao Ling**, Zhaoxiang Zeng, Kai Zhang
   - **Grant Date:** 2023-03-21
-  - **Description:** 本发明中，通过多层级的分割网络对待识别图形进行分割，并根据待识别图像中的不同的分割目标使用不同层级的分割网络，提高了待识别图像中的不同分割目标的分割精度，提高了待识别图像的评级分类精度。
+  - **Description:** A multi-level segmentation network for fundus image recognition, improving segmentation precision and classification accuracy for different targets.
 
-- **Title:** [云平台资源调度方法](https://www.qcc.com/zhuanliDetail/5b36cea7d8ad2ac8ee637f8d6f1edfdd.html)
+- **Title:** Cloud Platform Resource Scheduling Method (云平台资源调度方法)
   - **No.:** CN201310066039.9
-  - **Authors:** 杨家海，徐聪，**凌晓**，王于丁
+  - **Inventors:** Jiahai Yang, Cong Xu, **Xiao Ling**, Yuding Wang
   - **Grant Date:** 2014-09-03
-  - **Description:** 本发明公开一种云平台资源调度方法，能处理任务n的服务器集合Set并求出将任务n分配给集合Set中各服务器时云平台中各服务器的平均负载。
+  - **Description:** A cloud platform resource scheduling method that calculates the average load of servers when assigning tasks to server sets.
 
-- **Title:** [一种资源迁移的方法、系统及设备](https://www.qcc.com/zhuanliDetail/1c53abf0b4a9cd9f12dea67e78c9c2ba.html)
-  - **No.:** CN202011526847.5
-  - **Authors:** 杜雷鸣，井淑明，**凌晓**
+- **Title:** Resource Migration Method, System and Device (一种资源迁移的方法、系统及设备)
+  - **No.:** CN202110312058.X
+  - **Inventors:** Leiming Du, Shuming Jing, **Xiao Ling**
   - **Grant Date:** 2021-09-10
-  - **Description:** 本申请提供了一种资源迁移的方法，所述方法应用于资源提供系统，所述资源提供系统包括至少一个物理主机，所述至少一个物理主机中每个物理主机包括多种硬件资源。
+  - **Description:** A resource migration method for resource provisioning systems with multiple physical hosts containing various hardware resources.
 
-- **Title:** [一种在线数据异常检测方法、装置、存储介质及设备](https://www.qcc.com/zhuanliDetail/eca395eaffb1d2ed8a4258d29d5e750b.html)
+- **Title:** Online Data Anomaly Detection Method, Apparatus, Storage Medium and Device (一种在线数据异常检测方法、装置、存储介质及设备)
   - **No.:** CN202010236425.8
-  - **Authors:** 苏玉鑫，吕荣聪，**凌晓**
+  - **Inventors:** Yuxin Su, Rongcong Lyu, **Xiao Ling**
   - **Grant Date:** 2021-10-01
-  - **Description:** 本申请实施例公开了一种在线数据异常检测方法、装置、存储介质及设备，应用于数据处理技术领域，用于解决待检测的在线数据数值范围未知的问题。
+  - **Description:** An online data anomaly detection method to solve the problem of unknown value ranges in data to be detected.
 
-- **Title:** [一种预测服务质量的方法和计算装置](https://www.qcc.com/zhuanliDetail/1c49016649ba7c455e3001d332bd4d97.html)
+- **Title:** Service Quality Prediction Method and Computing Device (一种预测服务质量的方法和计算装置)
   - **No.:** CN202210609398.3
-  - **Authors:** 高晓沨，程云龙，**凌晓**，陈贵海
+  - **Inventors:** Xiaofeng Gao, Yunlong Cheng, **Xiao Ling**, Guihai Chen
   - **Grant Date:** 2023-12-12
-  - **Description:** 本申请提供的一种预测服务质量的方法。本申请还提供能够实现上述方法的计算装置。
+  - **Description:** A method for predicting service quality and a computing device capable of implementing the method.
 
-- **Title:** [一种存储池的热点处理方法及装置](https://www.qcc.com/zhuanliDetail/16182e91b09b075e8c2396d782b4119e.html)
+- **Title:** Storage Pool Hotspot Processing Method and Apparatus (一种存储池的热点处理方法及装置)
   - **No.:** CN202011562831.X
-  - **Authors:** 李春光，曾永强，叶松，**凌晓**，井淑明，杜雷鸣
+  - **Inventors:** Chunguang Li, Yongqiang Zeng, Song Ye, **Xiao Ling**, Shuming Jing, Leiming Du
   - **Grant Date:** 2022-06-28
-  - **Description:** 提供一种存储池的热点处理方法及装置，涉及存储技术领域，能够提升存储池的热点处理的效果。
+  - **Description:** A storage pool hotspot processing method and apparatus in the storage technology field to improve hotspot processing effectiveness.
 
-## 🧑‍💻 Software Copyrights
-- **Title:** 智核苑一站式AI教学平台
+## 🧑‍💻 Software Copyrights (5 Registered)
+
+- **Title:** AILeader One-Stop AI Education Platform (智核苑一站式AI教学平台)
   - **No.:** 2024SR2114374
-  - **Authors:** 深圳核韬科技有限公司
+  - **Owner:** Shenzhen HeTao Technology Co., Ltd.
   - **Grant Date:** 2024-12-18
-  - **Description:** 智核苑教学平台1.0是专为青少年群体打造的人工智能教育学习平台，通过创新的AI技术，集成了AI编程、AI辅导、AI科创三大版块，覆盖积木编程、指令编程、学习助手、模拟考试、AI绘画、数字生命等功能模块，助力学生进行项目式及个性化的创新学习方法。
+  - **Description:** An AI education platform for K-12 students, integrating AI Programming, AI Tutoring, and AI Science & Innovation modules with block-based programming, learning assistants, AI art creation, and digital life features.
 
-- **Title:** 智核苑数字人创作平台DigitalAvatar
+- **Title:** AILeader Digital Avatar Creation Platform (智核苑数字人创作平台DigitalAvatar)
   - **No.:** 2024SR1155409
-  - **Authors:** 深圳核韬科技有限公司
+  - **Owner:** Shenzhen HeTao Technology Co., Ltd.
   - **Grant Date:** 2024-08-09
-  - **Description:** 这是一款能根据用户意图快速生成音频和数字人视频的应用。作品由云端AI生成，版权归创作者所有。
+  - **Description:** An application for rapid generation of audio and digital human videos based on user intent, with cloud-based AI generation.
 
-- **Title:** 爱画之城软件
+- **Title:** AI Drawing City (爱画之城软件)
   - **No.:** 2023SR0651719
-  - **Authors:** 深圳核韬科技有限公司
+  - **Owner:** Shenzhen HeTao Technology Co., Ltd.
   - **Grant Date:** 2023-06-14
-  - **Description:** 爱画之城1.0是由深圳核韬科技有限公司研发的小程序，是一款根据用户自己的意图快速作画的应用。
+  - **Description:** A mini-program for rapid AI-powered drawing based on user intent.
 
-- **Title:** 基于云计算的AI医学影像辅助诊断系统CoreMI
+- **Title:** CoreMI: Cloud-Based AI Medical Imaging Diagnosis System (基于云计算的AI医学影像辅助诊断系统CoreMI)
   - **No.:** 2022SR1507070
-  - **Authors:** 深圳核韬科技有限公司
+  - **Owner:** Shenzhen HeTao Technology Co., Ltd.
   - **Grant Date:** 2022-11-16
-  - **Description:** CoreMI 1.0是一款依托云计算、可同时面向普通患者/医院/体检中心的医学影像分析软件，通过海量数据处理、特征工程、深度学习等技术，以实现AI在线自动化阅片、并辅助医生给出诊断报告的功能，显著提升医生阅片效率（万倍以上），同时减少误诊率。
+  - **Description:** A cloud-based medical imaging analysis software for patients, hospitals, and health centers, utilizing big data processing, feature engineering, and deep learning for automated AI film reading and diagnostic report generation, improving efficiency by 10,000x while reducing misdiagnosis rates.
+
+- **Title:** Tsinghua Cloud IaaS Management Platform (清华云IaaS管理平台)
+  - **No.:** 2014SR0651374
+  - **Owner:** Jiahai Yang, Cong Xu, Xiao Ling, Hui Yu, Jianping Weng
+  - **Grant Date:** 2014-01-27
+  - **Description:** An Infrastructure-as-a-Service management platform for cloud computing resource orchestration and scheduling.

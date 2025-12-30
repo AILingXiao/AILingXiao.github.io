@@ -1,0 +1,11 @@
+# 🔥 News
+- *2025.01*: 🎉 I have been appointed as a **Visiting Professor** at the School of Artificial Intelligence, Fujian Normal University!
+- *2025.01*: 🎉 Co-founded **HeTao Technology (Wenzhou) Co., Ltd.** as the national marketing center for enterprise AI solutions!
+- *2024.12*: 🎉 Obtained software copyright for **AILeader One-Stop AI Education Platform** (智核苑一站式AI教学平台)!
+- *2024.08*: I gave a keynote presentation titled "The Future of Intelligent Learning: AI Empowering Personalized Education and Innovation in Primary and Secondary Schools" at the **First National AIGC Education Summit**.
+- *2024.07*: 🎉 Wisdom Core Garden won the **third prize** in the 7th National Youth AI Innovation Challenge (AIIC) with the project "AI Virtual Companion for the Elderly"!
+- *2024.07*: 🎉 Wisdom Core Garden has been officially authorized as a designated registration and examination service point for the **National Youth Programming Ability Test (PAAT)**!
+- *2024.06*: 🎉 Wisdom Core Garden (Cuihu Branch) Established! **China's First National AI Professional Training Institute for K-12 Students**!
+- *2024.04*: I have been appointed as an **External Instructor** at the School of Artificial Intelligence, Fujian Normal University.
+- *2024.03*: 🎉 The generative large model algorithm of HeTao AI has passed the **national review for internet information service algorithm filing**!
+- *2022.06*: 🎉 HeTao Technology has obtained a **seed funding round of 3 million RMB**, with a post-funding valuation of 30 million RMB!
