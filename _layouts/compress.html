@@ -1,0 +1,68 @@
+---
+---
+
+{%- capture _LINE_FEED -%}
+{% endcapture -%}
+
+{%- if site.compress_html.ignore.envs contains jekyll.environment -%}
+  {{ content }}
+{%- else -%}
+
+{%- assign _content = content -%}
+
+{%- if site.compress_html.clippings == "all" -%}
+  {%- assign _clippings = "html head title base link meta style body article section nav aside h1 h2 h3 h4 h5 h6 hgroup header footer address p hr blockquote ol ul li dl dt dd figure figcaption main div table caption colgroup col tbody thead tfoot tr td th" | split: " " -%}
+{%- else -%}
+  {%- assign _clippings = site.compress_html.clippings -%}
+{%- endif -%}
+
+{%- for _element in _clippings -%}
+  {%- assign _edges = " <" | append: _element | append: ">" | append: " </" | append: _element | append: ">" | split: " " -%}
+  {%- assign _content = _content | replace: _edges[0], _edges[0] | replace: _edges[1], _edges[1] -%}
+{%- endfor -%}
+
+{%- if site.compress_html.comments -%}
+  {%- assign _comments = site.compress_html.comments -%}
+{%- else -%}
+  {%- assign _comments = "<!-- -->" | split: " " -%}
+{%- endif -%}
+
+{%- for _comment in _comments -%}
+  {%- assign _comment_parts = _comment | split: " " -%}
+  {%- if _comment_parts.size == 2 -%}
+    {%- assign _comment_start = _comment_parts[0] -%}
+    {%- assign _comment_end = _comment_parts[1] -%}
+    {%- assign _content_split = _content | split: _comment_start -%}
+    {%- assign _content = "" -%}
+    {%- for _chunk in _content_split -%}
+      {%- if forloop.first -%}
+        {%- assign _content = _content | append: _chunk -%}
+      {%- else -%}
+        {%- assign _after_comment = _chunk | split: _comment_end -%}
+        {%- if _after_comment.size > 1 -%}
+          {%- for _after in _after_comment -%}
+            {%- unless forloop.first -%}
+              {%- assign _content = _content | append: _after -%}
+            {%- endunless -%}
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign _content = _content | split: _LINE_FEED -%}
+{%- assign _output = "" -%}
+{%- for _line in _content -%}
+  {%- assign _trimmed = _line | strip -%}
+  {%- if _trimmed != "" -%}
+    {%- assign _output = _output | append: _trimmed -%}
+    {%- unless forloop.last -%}
+      {%- assign _output = _output | append: _LINE_FEED -%}
+    {%- endunless -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{{ _output }}
+
+{%- endif -%}

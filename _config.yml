@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Xiao Ling (凌晓)"
 description              : "Tsinghua University Ph.D., former Huawei Technical Expert, focus on AIGC."
+url                      : "https://ailingxiao.github.io"
 repository               : "ailingxiao/ailingxiao.github.io"
 google_scholar_stats_use_cdn : true
 
